@@ -1,0 +1,11 @@
+#define PORT_DRIVELEFTFRONT 10
+#define PORT_DRIVERIGHTFRONT 7
+#define PORT_DRIVELEFTBACK 5
+#define PORT_DRIVERIGHTBACK 14
+#define PORT_ROLLERLEFT 13
+#define PORT_ROLLERRIGHT 6
+#define PORT_ARMLEFT 3
+//#define PORT_ARMRIGHT 7
+#define PORT_TILTER 11
+extern int autonNumber;
+extern bool redAlliance;
